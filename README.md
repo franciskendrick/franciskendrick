@@ -1,13 +1,16 @@
+<h1>about me:</h1>
+
 <div align="center">
-  <h3><b>Francis Kendrick</b></h3>
-  <p><i>focused on data science & ai/ml</i></p>
+  <h3><i>focused on data science & ai/ml</i></h3>
 </div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=franciskendrick&label=Profile%20views&color=0e75b6&style=flat" alt="franciskendrick" /> 
 </p>
 
-- 🌱 i'm currently learning **data systems (databases, relational architecture, & data visualization)**
+- 🎮 i used to be a **full-stack game developer** using python pygame
+- 🤖 i transitioned into **robotics** with arduino, c, and c++
+- 🌱 i'm currently learning **data systems _(databases, relational architecture, & data visualization)_**
 
 ## 💻 my tech stack
 
@@ -22,9 +25,3 @@
 
 ### robotics & embedded systems
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-## 📊 performance metrics
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciskendrick&" alt="franciskendrick" />
-</p>

@@ -1,5 +1,7 @@
-<h1 align="center">hi ! i'm francis kendrick</h1>
-<h3 align="center">focused on data science & ai/ml</h3>
+<div align="center">
+  <h3><b>Francis Kendrick</b></h3>
+  <p><i>focused on data science & ai/ml</i></p>
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=franciskendrick&label=Profile%20views&color=0e75b6&style=flat" alt="franciskendrick" /> 

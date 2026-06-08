@@ -5,11 +5,12 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=franciskendrick&label=Profile%20views&color=0e75b6&style=flat" alt="franciskendrick" /> 
+  <img src="https://komarev.com/ghpvc/?username=franciskendrick&color=blue&style=for-the-badge&abbreviated=true" /> 
 </p>
 
 - 🎮 i used to be a **full-stack game developer** using python pygame
-- 🤖 i transitioned into **robotics** with arduino, c, and c++
+- 🤖 i transitioned into **robotics** with arduino and c/c++
+- 👁️ i merged robotics with **computer vision**, which led me to fully pivot into **deep learning** using opencv, tensorflow, and pytorch
 - 🌱 i'm currently learning **data systems _(databases, relational architecture, & data visualization)_**
 
 ## 💻 my tech stack
